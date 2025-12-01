@@ -23,3 +23,5 @@
     gps mapping for machine tracking. mack it easy to setup. plug and play any machine with obd2. possible setup other possiblities for tracking not sure yet.
   </li>
 </ol>
+
+## This will be slow as im still learning to code. Collabriators are welcome! 
