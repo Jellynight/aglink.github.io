@@ -25,3 +25,6 @@
 </ol>
 
 ## This will be slow as im still learning to code. Collabriators are welcome! 
+
+## wireframe link
+https://www.figma.com/proto/dOWtcNBlzbuDxS68Z0r9oR/Aglink?node-id=0-1&t=pzSaDlQ32u9uaJQX-1
